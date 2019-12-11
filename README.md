@@ -20,7 +20,7 @@ The code successfully assigns nominative case marking, accusative case marking a
 
 	- Users should be able to list every node of a binary tree from top down, left to right fashion. If a node only has one child, make that child the right branched child, and have an empty left branch.
 
-<img src="https://github.com/joannechau/case_assignment_code/blob/master/BFS.png" alt="Breadth First Search" style="width:20px;"/>
+![Breadth First Search](https://github.com/joannechau/case_assignment_code/blob/master/BFS.png)
 
 - Semantic Bracketing (for linguistics users)
 
@@ -48,7 +48,7 @@ The semantic bracketing would be [TP [T$'$ [T [VP [DP] [V' [V] [DP]]]]]
 
 5. Below is a sample run of the sentence "His dog likes her cat".
 
-![Tree for "his dog likes her cat."](Big)
+![Tree for "His dog likes her cat."](Big)
 
 ```python
 Input:
