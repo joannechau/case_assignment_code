@@ -28,9 +28,9 @@ The code successfully assigns nominative case marking, accusative case marking a
 
 ![Sample Tree](https://github.com/joannechau/case_assignment_code/blob/master/Small.png)
 
-The BFS reading is TP, T', T, VP, DP, V', V, DP
+The BFS reading is **TP, T', T, VP, DP, V', V, DP**
 
-The semantic bracketing would be [TP [T$'$ [T [VP [DP] [V' [V] [DP]]]]]
+The semantic bracketing would be **[TP [T' [T [VP [DP] [V' [V] [DP]]]]]**
 
 ---
 
