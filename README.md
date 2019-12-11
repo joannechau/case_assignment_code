@@ -20,7 +20,7 @@ The code successfully assigns nominative case marking, accusative case marking a
 
 	- Users should be able to list every node of a binary tree from top down, left to right fashion. If a node only has one child, make that child the right branched child, and have an empty left branch.
 
-![Breadth First Search](https://github.com/joannechau/case_assignment_code/blob/master/BFS.png =100x20)
+![Breadth First Search](https://github.com/joannechau/case_assignment_code/blob/master/BFS.png=250x)
 
 - Semantic Bracketing (for linguistics users)
 
