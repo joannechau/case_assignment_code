@@ -1,8 +1,7 @@
 
 Case Assignment - Code Documentation
 
-author: Joanne Chau
-
+Author: Joanne Chau
 ===
 
 # Description
