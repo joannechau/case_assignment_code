@@ -20,16 +20,17 @@ The code successfully assigns nominative case marking, accusative case marking a
 
 	- Users should be able to list every node of a binary tree from top down, left to right fashion. If a node only has one child, make that child the right branched child, and have an empty left branch.
 
-![Breadth First Search](BFS)
+![Breadth First Search](https://github.com/joannechau/case_assignment_code/blob/master/BFS.png)
+
 - Semantic Bracketing (for linguistics users)
 
 	- Users should be able to reiterate a binary tree into semantic bracketing for the input of the tree. If a node only has one child, make that child the right branched child, and have an empty left branch.
 
 ![Sample Tree](Small)
 
-The BFS reading is TP, T$'$, T, VP, DP, V$'$, V, DP
+The BFS reading is TP, T', T, VP, DP, V', V, DP
 
-The semantic bracketing would be [TP [T$'$ [T [VP [DP] [V$'$ [V] [DP]]]]]]
+The semantic bracketing would be [TP [T$'$ [T [VP [DP] [V' [V] [DP]]]]]
 
 ---
 
