@@ -26,7 +26,7 @@ The code successfully assigns nominative case marking, accusative case marking a
 
 	- Users should be able to reiterate a binary tree into semantic bracketing for the input of the tree. If a node only has one child, make that child the right branched child, and have an empty left branch.
 
-![Sample Tree](Small)
+![Sample Tree](https://github.com/joannechau/case_assignment_code/blob/master/Small.png)
 
 The BFS reading is TP, T', T, VP, DP, V', V, DP
 
@@ -48,7 +48,7 @@ The semantic bracketing would be [TP [T$'$ [T [VP [DP] [V' [V] [DP]]]]]
 
 5. Below is a sample run of the sentence "His dog likes her cat".
 
-![Tree for "His dog likes her cat."](Big)
+![Tree for "His dog likes her cat."](https://github.com/joannechau/case_assignment_code/blob/master/Big.png)
 
 ```python
 Input:
