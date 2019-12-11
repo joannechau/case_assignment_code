@@ -18,13 +18,17 @@ The code successfully assigns nominative case marking, accusative case marking a
 
 	- Users should be able to list every node of a binary tree from top down, left to right fashion. If a node only has one child, make that child the right branched child, and have an empty left branch.
 
-<center>![Breadth First Search](https://github.com/joannechau/case_assignment_code/blob/master/BFS.png)</center>
+<center>
+	![Breadth First Search](https://github.com/joannechau/case_assignment_code/blob/master/BFS.png)
+</center>
 
 - Semantic Bracketing (for linguistics users)
 
 	- Users should be able to reiterate a binary tree into semantic bracketing for the input of the tree. If a node only has one child, make that child the right branched child, and have an empty left branch.
 
-<center>![Sample Tree](https://github.com/joannechau/case_assignment_code/blob/master/Small.png)</center>
+<center>
+	![Sample Tree](https://github.com/joannechau/case_assignment_code/blob/master/Small.png)
+</center>
 
 The BFS reading is **TP, T', T, VP, DP, V', V, DP**
 
@@ -46,7 +50,9 @@ The semantic bracketing would be **[TP [T' [T [VP [DP] [V' [V] [DP]]]]]**
 
 5. Below is a sample run of the sentence "His dog likes her cat".
 
-<center>![Tree for "His dog likes her cat."](https://github.com/joannechau/case_assignment_code/blob/master/Big.png)</center>
+<center>
+	![Tree for "His dog likes her cat."](https://github.com/joannechau/case_assignment_code/blob/master/Big.png)
+</center>
 
 ```python
 Input:
@@ -88,6 +94,7 @@ Vu, M., Shafiei, N., Graf, T. (2019). "Case assignment in TSL syntax: a case stu
 
 # Contact Information
 
+| Type of Contact	| Information
 | Creator		| Joanne Chau
 | Email address		| choryan.chau@stonybrook.edu
 | LinkedIn		| www.linkedin.com/in/choryanchau
