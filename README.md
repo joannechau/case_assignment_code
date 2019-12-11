@@ -1,7 +1,5 @@
 
 Case Assignment - Code Documentation
-
-Author: Joanne Chau
 ===
 
 # Description
@@ -76,12 +74,20 @@ The case assignment of the nouns in the sentence are:
 
 ---
 
+# Licenses
+
+TBD 
+
+---
+
 # Resources
 
 Vu, M., Shafiei, N., Graf, T. (2019). "Case assignment in TSL syntax: a case study", _Proceedings of the Society for Computation in Linguistics:_ Vol.2, Article 28.
 
 ---
 
-# Contact
+# Contact Information
 
-Email address: choryan.chau@stonybrook.edu
+| Creator		| Joanne Chau
+| Email address		| choryan.chau@stonybrook.edu
+| LinkedIn		| www.linkedin.com/in/choryanchau
