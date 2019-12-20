@@ -77,7 +77,10 @@ The case assignment of the nouns in the sentence are:
 
 # Licenses
 
-TBD 
+© Copyright 2019, Joanne Chau
+
+
+GPL v 3
 
 ---
 
