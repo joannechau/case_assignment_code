@@ -21,21 +21,21 @@ The code successfully assigns nominative case marking, accusative case marking a
 ![Breadth First Search](https://github.com/joannechau/case_assignment_code/blob/master/BFS.png)
 
 
-- Semantic Bracketing (for linguistics users)
+- Syntactic Bracketing (for linguistics users)
 
-	- Users should be able to reiterate a binary tree into semantic bracketing for the input of the tree. If a node only has one child, make that child the right branched child, and have an empty left branch.
+	- Users should be able to reiterate a binary tree into syntactic bracketing for the input of the tree. If a node only has one child, make that child the right branched child, and have an empty left branch.
 
 ![Sample Tree](https://github.com/joannechau/case_assignment_code/blob/master/Small.png)
 
 The BFS reading is **TP, T', T, VP, DP, V', V, DP**
 
-The semantic bracketing would be **[TP [T' [T [VP [DP] [V' [V] [DP]]]]]**
+The syntactic bracketing would be **[TP [T' [T [VP [DP] [V' [V] [DP]]]]]**
 
 ---
 
 # Installation
 
-1. Encode the binary tree into an understandable input for the code. List every node out in semantic bracketing form, change the brackets to parenthesis and add "Node" before each left bracket "(". When submitting a sentence, ensure that the nouns are different. If the same noun is used, utilize a number to keep track of the noun being used to ensure that it does not get deleted in the output dictionary.
+1. Encode the binary tree into an understandable input for the code. List every node out in syntactic bracketing form, change the brackets to parenthesis and add "Node" before each left bracket "(". When submitting a sentence, ensure that the nouns are different. If the same noun is used, utilize a number to keep track of the noun being used to ensure that it does not get deleted in the output dictionary.
 
 	a. As the code ignores all non-local domains, as long as the input includes the VP structure, it will ignore all non-relevant parts of the tree.
 
